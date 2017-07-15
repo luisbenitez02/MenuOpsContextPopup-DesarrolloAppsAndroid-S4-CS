@@ -14,4 +14,13 @@
         android:text="@string/person_name"
         android:textSize="@dimen/text_size"/>
 
+    <ImageView
+        android:id="@+id/imgImagen"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:src="@drawable/image"
+        android:layout_centerVertical="true"
+        android:layout_centerHorizontal="true"
+        android:onClick="levantarMenuPopup"/>
+
 </RelativeLayout>

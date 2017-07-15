@@ -15,4 +15,8 @@
     <!--Clicks sobre el menu contextual (aparece al pulsar prolongado el text)-->
     <string name="text_click_edit">¡Un click sobre editar!</string>
     <string name="text_click_delete">¡Un click sobre eliminar!</string>
+
+    <!--Textos del menu popup-->
+    <string name="menu_view">View Image</string>
+    <string name="menu_view_detail">View Image Detail</string>
 </resources>
