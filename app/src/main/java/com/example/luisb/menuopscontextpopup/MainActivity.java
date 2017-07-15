@@ -51,6 +51,10 @@ public class MainActivity extends AppCompatActivity {
                 startActivity(i);
                 break;
 
+            case  R.id.mRefresh:
+                Toast.makeText(this,getResources().getString(R.string.menu_act_view),Toast.LENGTH_SHORT).show();
+                break;
+
         }
 
         return super.onOptionsItemSelected(item);

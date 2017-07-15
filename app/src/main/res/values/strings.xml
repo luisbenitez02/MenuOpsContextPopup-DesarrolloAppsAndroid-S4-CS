@@ -19,4 +19,8 @@
     <!--Textos del menu popup-->
     <string name="menu_view">View Image</string>
     <string name="menu_view_detail">View Image Detail</string>
+
+    <!--El action view en nuestra barra-->
+    <string name="menu_action">Refresh</string>
+    <string name="menu_act_view">¡Refrescado!</string>
 </resources>
